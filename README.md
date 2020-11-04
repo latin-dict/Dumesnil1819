@@ -5,7 +5,7 @@ Source files of [Latin synonyms](https://latin-dict.github.io/dictionaries/Dumes
 ### Files
 
 * `lexicon.json` - list of headwords
-* `articles` - folder with text of the transcribed articles
+* `articles` - folder with text of transcribed articles
 * images of the pages can be extracted from release files
 
 
@@ -15,4 +15,4 @@ Source files of [Latin synonyms](https://latin-dict.github.io/dictionaries/Dumes
 * `%to love cordially%` - direct English translation
 * `_diligere_` - italic text
 * `#Cic.#` - souce of the citation
-* `* Omnes matres amant liberos suos` - quotation, sign "*" should be the first char in the string
+* `* Omnes matres amant liberos suos` - quotation, sign `*` should be the first char in the string
